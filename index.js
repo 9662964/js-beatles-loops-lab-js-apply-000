@@ -12,9 +12,8 @@ function theBeatlesPlay(name, instru) {
     var i = 0;
     var j = 0;
     for (i;i<musicians.length;i++) {
-        for(j;j<instruments.length;j++){
-            console.log(musicians[i] + " plays " + instruments[j]);
-        }
+            console.log(musicians[i] + " plays " + instruments[i]);
+        
     }
 
 }
