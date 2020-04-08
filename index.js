@@ -6,8 +6,6 @@ function theBeatlesPlay(name, instru) {
     musicians.push(name);
     instruments.push(instru);
 
-    console.log(musicians.length);
-    console.log(instruments.length);
 
     var i = 0;
     var j = 0;
